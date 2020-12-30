@@ -7,4 +7,8 @@ public class FirstClass {
         System.out.println("hello git hub!");
         System.out.println("hello git hub!");
     }
+    public void test(){
+        int i = 0;
+        System.out.println(i);
+    }
 }
